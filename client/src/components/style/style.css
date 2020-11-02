@@ -1,0 +1,19 @@
+.x{
+    background-color: #563d7c !important;
+}
+.nav-link{
+    color: white !important;
+}
+
+@media only screen and (min-width: 1000px){
+    .navbar-nav{
+        margin-top: -50px !important;
+    }
+    .x{
+        background-color: #563d7c !important;
+        height: 100px;
+    }
+}
+
+
+
